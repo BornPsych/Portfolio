@@ -72,14 +72,14 @@ export const Projects = () => {
       description:
         'A dashboard with sales, revenue, client etc information made with react ',
       imgUrl: dashboard,
-      projectLink: 'https://gilded-crostata-0ae08c.netlify.app/',
+      projectLink: 'https://harmonious-fox-66d801.netlify.app/',
       githubLink: 'https://github.com/BornPsych/react-admin-dashboard',
     },
     {
       title: 'Meme generator',
       description: 'A meme generator App with react JS',
       imgUrl: meme,
-      projectLink: 'https://stupendous-sundae-dd8dce.netlify.app/',
+      projectLink: 'https://moonlit-gumption-c931cb.netlify.app/',
       githubLink: 'https://github.com/BornPsych/Meme-generator',
     },
   ]
